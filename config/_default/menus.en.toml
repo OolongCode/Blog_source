@@ -1,0 +1,31 @@
+
+[[main]]
+    pre = "circle-info"
+    name = "About"      
+    pageRef = "about"      
+    weight = 1    
+[[main]]
+    pre = "bars"
+    name = "Posts"
+    pageRef = "posts"
+    weight = 2 
+
+[[main]]
+    pre = "link"
+    name = "Link"
+    pageRef = "link"
+    weight = 5
+[[main]]
+  pre = "github"
+  url = "https://github.com/OolongCode"
+
+[[footer]]
+    name = "Categories"
+    pageRef = "categories"
+    weight = 3
+
+[[footer]]
+    pre = "link"
+    name = "Tags"
+    pageRef  = "tags"
+    weight = 4
