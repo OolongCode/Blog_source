@@ -1,4 +1,4 @@
 baseURL = "https://www.codetea.top/"
 languageCode = "en"
-
+outputs.home = ["HTML", "RSS", "JSON"]
 

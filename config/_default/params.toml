@@ -1,0 +1,16 @@
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = "true"
+enableSearch = "true"
+logo = "img/logo.png"
+[header]
+layout = "hamburger"
+[homepage]
+showRecent = "ture"
+layout	= "profile"
+showRecentItems = 5
+[footer]
+showThemeAttribution = "false"
+showScrollToTop = "true"
+[list]
+showCards = "ture"
